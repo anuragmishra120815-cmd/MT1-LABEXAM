@@ -1,16 +1,6 @@
 {
-  "name": "employeetaskmanagement",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "module",
-  "dependencies": {
-    "express": "^5.3.0"
-  }
+  "id": 3,
+  "taskName": "Create Website",
+  "assignedTo": "Anurag",
+  "status": "Pending"
 }
