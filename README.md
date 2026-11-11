@@ -1,3 +1,3 @@
-# MT1-LABEXAM - Task B
+# MT1-LABEXAM - Part A & Part B Outputs
 
-![Task B Output 1](./screenshots/img-01.png)
+![All Tasks Output](./EmployeeTaskManagement/screenshots/all_tasks.png)
