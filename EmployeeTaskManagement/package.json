@@ -1,7 +1,11 @@
 {
   "name": "employeetaskmanagement",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "Employee Task Management Web Application",
+=======
+  "description": "Employee Task Management Web Application for Full Stack Development Node.js Lab Examination",
+>>>>>>> 225e835cf9e60f15cfc7519b769439aaa7f5aaeb
   "type": "module",
   "main": "httpServer.js",
   "scripts": {
@@ -11,4 +15,8 @@
   "dependencies": {
     "express": "^5.3.0"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 225e835cf9e60f15cfc7519b769439aaa7f5aaeb
