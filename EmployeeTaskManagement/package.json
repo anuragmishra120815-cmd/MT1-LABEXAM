@@ -1,6 +1,14 @@
 {
-  "id": 3,
-  "taskName": "Create Website",
-  "assignedTo": "Anurag",
-  "status": "Pending"
+  "name": "employeetaskmanagement",
+  "version": "1.0.0",
+  "description": "Employee Task Management Web Application",
+  "type": "module",
+  "main": "httpServer.js",
+  "scripts": {
+    "start:http": "node httpServer.js",
+    "start:express": "node expressApp.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
 }
